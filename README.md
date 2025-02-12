@@ -10,7 +10,7 @@ Frees up disk space by deleting outdated thumbnails.
 
 ## 🛠 Installation
 ```bash
-git clone https://github.com/your-username/thumbnail-cleaner.git
+git clone https://github.com/Wholffe/thumbnail-cleaner.git
 cd thumbnail-cleaner
 chmod +x setup-thumbnail-cleaner.sh
 ./setup-thumbnail-cleaner.sh
